@@ -26,7 +26,7 @@ Financial Portfolio Optimization with amplpy.
 
 AMPL R API. 
 
-### AMPL Model Colaboratory [[GitHub](https://github.com/ampl/amplcolab)] [[Documentation](https://amplcolab.readthedocs.io/)]
+### AMPL Model Colaboratory [[Documentation](https://amplcolab.readthedocs.io/)] [[GitHub](https://github.com/ampl/amplcolab)] 
 
 Jupyter notebooks ready to run on various cloud platforms.
 
