@@ -12,6 +12,8 @@
 
 [AMPL Modelling and Development Resources](https://dev.ampl.com)
 
+[AMPL APIs for Python, R, Java, C#, C++, MATLAB](https://dev.ampl.com/en/latest/apis.html)
+
 ## AMPL Open-Source Projects
 
 ### amplpy [[ampl/amplpy](https://github.com/ampl/amplpy)]
