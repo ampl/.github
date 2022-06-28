@@ -8,6 +8,8 @@
 
 [AMPL License Portal](https://portal.ampl.com)
 
+[AMPL Community Edition](https://ampl.com/ce)
+
 [AMPL Model Colaboratory](https://colab.ampl.com)
 
 [AMPL Modelling and Development Resources](https://dev.ampl.com)
