@@ -26,13 +26,17 @@ AMPL Python API. [[Documentation](https://amplpy.readthedocs.io/)]
 
 Financial Portfolio Optimization with amplpy. [[Documentation](https://amplpyfinance.readthedocs.io/)]
 
-### rAMPL [[ampl/rAMPL](https://github.com/ampl/rAMPL)] 
-
-AMPL R API. [[Documentation](https://rAMPL.readthedocs.io/)]
-
 ### AMPL Model Colaboratory [[ampl/colab.ampl.com](https://github.com/ampl/colab.ampl.com)] 
 
 Jupyter notebooks ready to run on various cloud platforms. [[Documentation](https://colab.ampl.com/)]
+
+### Data-Driven Mathematical Optimization with AMPL in Python [[ampl/mo-book.ampl.com](https://github.com/ampl/mo-book.ampl.com)] 
+
+Over 50 Jupyter notebooks with modern real world applications of optimization using AMPL in Python. [[Online Book](https://mo-book.ampl.com/)]
+
+### rAMPL [[ampl/rAMPL](https://github.com/ampl/rAMPL)] 
+
+AMPL R API. [[Documentation](https://rAMPL.readthedocs.io/)]
 
 ### Solver Callbacks [[ampl/ampls-api](https://github.com/ampl/ampls-api)]
 
