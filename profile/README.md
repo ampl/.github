@@ -4,17 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/ampl/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AMPLopt)
 
-[AMPL Website](https://ampl.com)
+[AMPL Website](https://ampl.com) | [AMPL License Portal](https://portal.ampl.com) | [AMPL Community Edition](https://ampl.com/ce)
 
-[AMPL License Portal](https://portal.ampl.com)
-
-[AMPL Community Edition](https://ampl.com/ce)
-
-[AMPL Model Colaboratory](https://colab.ampl.com)
-
-[AMPL Modelling and Development Resources](https://dev.ampl.com)
-
-[AMPL APIs for Python, R, Java, C#, C++, and MATLAB](https://dev.ampl.com/en/latest/apis.html)
+[AMPL Model Colaboratory](https://colab.ampl.com) | [AMPL Modelling and Development Resources](https://dev.ampl.com)
 
 ## AMPL Open-Source Projects
 
